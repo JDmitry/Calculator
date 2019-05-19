@@ -1,4 +1,4 @@
-import java.util.Scanner;//Импорт класса Scanner;
+﻿import java.util.Scanner;//Импорт класса Scanner;
 
 class Calculator{//Класс Calculator с основными методами;
 
@@ -101,7 +101,7 @@ class Calculator{//Класс Calculator с основными методами;
     }
 }
 
-public class Main{//Метод Main с главным методом;
+public class Main{//Класс Main с главным методом;
 
     public static void main(String[] args) {
 
